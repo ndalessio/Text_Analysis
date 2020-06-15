@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592180079542.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "983621835",
+    "id" : "4F7EF1A4",
+    "lastKnownWriteTime" : 1592238904,
+    "last_content_update" : 1592238904899,
+    "path" : "~/R/R_practice/Text_Analysis/Cuentos_Cortazar/Cuentos_Cortazar.R",
+    "project_path" : "Cuentos_Cortazar.R",
+    "properties" : {
+        "cursorPosition" : "54,0",
+        "scrollLine" : "38",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
